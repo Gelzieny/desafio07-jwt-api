@@ -29,9 +29,6 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
 
 ````bash
 
-
----
-
 ## 📁 Estrutura esperada da API
 
 ### Usuários
@@ -82,7 +79,6 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
 
 ## ▶️ Criar ambiente virtual
 
-```bash
   #Clonar o repositório
   git clone https://github.com/seu-usuario/desafio07-jwt-api.git
 
@@ -95,31 +91,30 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
   # macOS / Linux (bash/zsh)
   python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
 
-```
 
 ---
 
 ## ✅ Funcionalidades implementadas
-- Registro de usuários com senha criptografada
-- Login com geração de token JWT
-- Proteção de rotas com autenticação
-- Pedidos visíveis apenas para o dono
-- Banco de dados SQLite com tabelas relacionadas
-- Testes automatizados (em progresso)
+  - Registro de usuários com senha criptografada
+  - Login com geração de token JWT
+  - Proteção de rotas com autenticação
+  - Pedidos visíveis apenas para o dono
+  - Banco de dados SQLite com tabelas relacionadas
+  - Testes automatizados (em progresso)
 
 ---
 
 ## 🧪 Testes
-
-```bash
   pytest
-```
+
 
 ## 💡 Aprendizados
 
-- Este desafio reforça conceitos fundamentais de segurança em APIs:
-- Autenticação e autorização com JWT
-- Proteção de rotas com decorators/middlewares
-- Boas práticas com senhas e tokens
-- Integração com banco de dados relacional
-- Organização do código usando MVC
+  - Este desafio reforça conceitos fundamentais de segurança em APIs:
+  - Autenticação e autorização com JWT
+  - Proteção de rotas com decorators/middlewares
+  - Boas práticas com senhas e tokens
+  - Integração com banco de dados relacional
+  - Organização do código usando MVC
+
+```
