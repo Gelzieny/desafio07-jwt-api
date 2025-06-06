@@ -4,7 +4,11 @@
 
 Este repositório contém a solução para o **Desafio 07** proposto pela [Rocketseat](https://rocketseat.com.br), referente ao módulo **Autenticação JWT e Segurança**. O objetivo é desenvolver uma API de pedidos protegida com autenticação via **JWT**, aplicando os conhecimentos de segurança, autorização e estruturação de APIs RESTful.
 </p>
----
+
+> 🔗 Link do desafio original: [Notion - Desafio 07](https://efficient-sloth-d85.notion.site/Desafio-07-36707f75b62640d8a2cf1c515a665531)  
+> 🔗 Repositório do projeto: [GitHub - Gelzieny/desafio07-jwt-api](https://github.com/Gelzieny/desafio07-jwt-api.git)
+
+
 
 ## 📌 Objetivo
 
