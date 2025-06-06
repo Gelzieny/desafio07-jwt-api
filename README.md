@@ -25,9 +25,9 @@ Ao fazer login com sucesso, o usuário receberá um **token JWT** contendo:
 - `username`: Nome do usuário
 - `token`: JWT assinado
 
-Este token deve ser enviado nas requisições subsequentes via `Authorization Header`:
+Este token deve ser enviado nas requisições subsequentes via `Authorization Header`
 
-```bash
+
 
 ## 📁 Estrutura esperada da API
 
@@ -48,6 +48,7 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
 
 **Tabela: users**
 
+```bash
 | Campo     | Tipo     |
 |-----------|----------|
 | id        | integer (PK) |
