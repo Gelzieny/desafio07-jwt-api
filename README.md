@@ -107,6 +107,7 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
 ## 🧪 Testes
   pytest
 
+```
 
 ## 💡 Aprendizados
 
@@ -116,5 +117,3 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
   - Boas práticas com senhas e tokens
   - Integração com banco de dados relacional
   - Organização do código usando MVC
-
-```
