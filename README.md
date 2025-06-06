@@ -27,7 +27,7 @@ Ao fazer login com sucesso, o usuário receberá um **token JWT** contendo:
 
 Este token deve ser enviado nas requisições subsequentes via `Authorization Header`:
 
-````bash
+```bash
 
 ## 📁 Estrutura esperada da API
 
