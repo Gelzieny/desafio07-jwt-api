@@ -63,6 +63,7 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
 | user_id     | integer (FK) |
 | description | text     |
 | created_at  | datetime |
+```
 
 ---
 
@@ -80,6 +81,7 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
 
 ## ▶️ Criar ambiente virtual
 
+```bash
   #Clonar o repositório
   git clone https://github.com/seu-usuario/desafio07-jwt-api.git
 
@@ -91,7 +93,7 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
 
   # macOS / Linux (bash/zsh)
   python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
-
+```
 
 ---
 
@@ -106,8 +108,9 @@ Este token deve ser enviado nas requisições subsequentes via `Authorization He
 ---
 
 ## 🧪 Testes
-  pytest
 
+```bash
+  pytest
 ```
 
 ## 💡 Aprendizados
